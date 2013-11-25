@@ -81,38 +81,38 @@
                                     items: [
                                         {
                                             icon: 'phone',
-                                            url: '/www/intranet/index/index.html',
+                                            url: '/mb-folio/intranet/index/index.html',
                                             title: 'Контакты'
                                         },
                                         {
                                             icon: 'headphones',
-                                            url: '/www/intranet/callcenter/callcenter.html',
+                                            url: '/mb-folio/intranet/callcenter/callcenter.html',
                                             title: 'Call-центру'
                                         },
                                         {
                                             icon: 'login',
-                                            url: '/www/intranet/systems/systems.html',
+                                            url: '/mb-folio/intranet/systems/systems.html',
                                             title: 'Вход <br/> в системы'
                                         },
                                         {
                                             icon: 'newspapper',
-                                            url: '/www/intranet/news/news.html',
+                                            url: '/mb-folio/intranet/news/news.html',
                                             title: 'События <br/> и акции',
                                             cls: 'active'
                                         },
                                         {
                                             icon: 'notebook',
-                                            url: '/www/intranet/orders/orders.html',
+                                            url: '/mb-folio/intranet/orders/orders.html',
                                             title: 'Приказы'
                                         },
                                         {
                                             icon: 'docs',
-                                            url: '/www/intranet/documents/documents.html',
+                                            url: '/mb-folio/intranet/documents/documents.html',
                                             title: 'Документы'
                                         },
                                         {
                                             icon: 'chalkboard',
-                                            url: '/www/intranet/tutorials/tutorials.html',
+                                            url: '/mb-folio/intranet/tutorials/tutorials.html',
                                             title: 'Обучение'
                                         }
                                     ]
